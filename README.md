@@ -1,4 +1,4 @@
-# Eltheria
+# Projet Eltheria
 
 Eltheria est un jeu mobile de plateau éducatif intégrant des fonctionnalités de Réalité Augmentée (AR). Cette production a été réalisée dans un contexte de projet tuteuré en DUT MMI, l'objectif est de réunir toutes les compétences acquises en un seul livrable que ce soit en Développement ou en Communication. La contrainte imposée était d'utiliser une nouvelle technologie.
 
